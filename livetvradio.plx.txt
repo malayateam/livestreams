@@ -1,7 +1,7 @@
 type=video
-name=Al Nahar
-thumb=http://www.alnaharlive.net/wp-content/themes/nahar/images/channel1.png
-URL=rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+name=TV3
+thumb=http://www.lyngsat-logo.com/hires/tt/tv3_my.png
+URL=http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 #
 type=video
 name=Al Nahar +2
