@@ -36,5 +36,5 @@ URL=http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 type=video
 name=TV Alhijrah
 thumb=http://www.layarku.tv/images/alhijrah.jpg
-URL=http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/chunklist_w1201122783_b800000.m3u8
+URL=http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
 #
