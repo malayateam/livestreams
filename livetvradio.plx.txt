@@ -1,0 +1,220 @@
+type=video
+name=Al Nahar
+thumb=http://www.alnaharlive.net/wp-content/themes/nahar/images/channel1.png
+URL=rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+#
+type=video
+name=Al Nahar +2
+thumb=http://www.alnaharlive.net/wp-content/uploads/2013/01/nahar-home-mainlogo.png
+URL=rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+#
+type=video
+name=Al Nahar Drama
+thumb=http://www.alnaharlive.net/wp-content/themes/nahar/images/channel4.png
+URL=rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnahardrama/
+#
+type=video
+name=Abu Dhabi TV1
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcSDb4V2clTJJMUuSopHFhYNTpQ2HcqC-0S7D7zo_uoEul9uZfZN
+URL=rtmp://50.7.175.242:1947/base2 playpath=arab1.stream swfUrl=http://www.justlivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://www.justlivetv.net/abu-dhabi-al-oula-1-live/
+#
+type=video
+name=Alhayat
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcRoWi14aYMrgellJVN1MDxbDSjp0KrQvt35Kppqa8rM2K9hxEEe
+URL=rtmp://174.36.1.51:1935/live playpath=alhaya39?id=184845 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/alhaya39/1/500/400
+#
+type=video
+name=Alqahera Alyoum
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcRoUt7z8yFEbuZv5aqnnjFbxCORta7Javw4SCLkBVdUadVkG05h
+URL=rtmp://1714.36.1.51/live playpath=amradeebtv9?id=190386 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/amradeebtv9/1/480/380
+#
+type=video
+name=Aghani TV
+thumb=http://t0.gstatic.com/images?q=tbn:ANd9GcTtKR5Hn39kY6pHs-L3R9cWhctIFtyZTdvftTsUNWpMCzEno_TFHg
+URL=rtmp://mobilestreaming.itworkscdn.com/aghanitv/ playpath=aghanitv swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/egypte/aghani.html
+#
+type=video
+name=CBC
+thumb=http://www.lyngsat-logo.com/logo/tv/cc/cbc_eg.jpg
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3u8
+#
+type=video
+name=CBC +2
+thumb=http://www.lyngsat-logo.com/logo/tv/cc/cbc_plus2.jpg
+URL=http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8
+#
+type=video
+name=CBC Sofra
+thumb=http://www.lyngsat-logo.com/hires/cc/cbc_sofra_eg.png
+URL=rtmp://41.196.200.11:9900/live playpath=cbcsofra.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf/[[DYNAMIC]]/1 pageUrl=http://41.196.200.11:9200/cbc.php
+#
+type=video
+name=Dubai
+thumb=http://www.lyngsat-logo.com/hires/dd/dubai_tv.png
+URL=rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv
+#
+type=video
+name=Dubai One
+thumb=http://4.bp.blogspot.com/-GAy7VqDFEOE/TfUi-84zi4I/AAAAAAAAMl0/epRvllJBUbg/s1600/dub-dubai-one-video.gif
+URL=http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/media_uk79ly5u9_b270960.abst/Seg1-Frag1658
+#
+type=video
+name=Fatafeat
+thumb=http://t3.gstatic.com/images?q=tbn:ANd9GcT5WLhGVkDB0zY-2MIv973bAmFEEHeNpE5Q2bjEQrs9Prq3uB4f
+URL=rtmp://live-f01.vustream.net/live/livestream3
+#
+type=video
+name=Infinity TV 
+thumb=http://static.filmon.com/couch/channels/1766/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=1766&mode=1
+#
+type=video
+name=iFilm
+thumb=http://static.filmon.com/couch/channels/908/extra_big_logo.png
+URL=plugin://plugin.video.MyFilmOn/?url=908&mode=1
+#
+type=video
+name=MBC
+thumb=http://static.filmon.com/couch/channels/367/extra_big_logo.png
+URL=plugin://plugin.video.MyFilmOn/?url=367&mode=1
+#
+type=video
+name=MBC2
+thumb=http://static.filmon.com/couch/channels/368/extra_big_logo.png
+URL=plugin://plugin.video.MyFilmOn/?url=368&mode=1
+#
+type=video
+name=MBC Action
+thumb=http://static.filmon.com/couch/channels/369/extra_big_logo.png
+URL=plugin://plugin.video.MyFilmOn/?url=369&mode=1
+#
+type=video
+name=Mehwar
+thumb=http://www.lyngsat-logo.com/hires/ee/el_mehwar_tv.png
+URL=rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://www.elmehwartv.com/1/
+#
+type=video
+name=Mehwar Drama
+thumb=http://www.lyngsat-logo.com/hires/ee/el_mehwar_tv.png
+URL=rtmp://livestreaming4.onlinehorizons.net/MehwarTVDRAMA playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://www.elmehwartv.com/1/
+#
+type=video
+name=Melody Aflam 
+thumb=http://www.lyngsat-logo.com/hires/mm/melody_aflam.png
+URL=rtmp://38.96.148.206/MelodyAflam playpath=MAflam_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15
+#
+type=video
+name=Melody Drama
+thumb=http://www.lyngsat-logo.com/logo/tv/mm/melody_drama.jpg
+URL=rtmp://38.96.148.206/MelodyDrama playpath=MDrama_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/17 live=1 timeout=15 
+#
+type=video
+name=Melody Classic
+thumb=http://www.tvfrekans.com/wp-content/uploads/2012/11/melody-tv-logo-resmi.jpg
+URL=rtmp://38.96.148.206/MelodyClassic playpath=MClassic_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.melody.net/halilou.com live=1 timeout=15 
+#
+type=video
+name=Melody Hits
+thumb=http://www.lyngsat-logo.com/hires/mm/melody_hits.png
+URL=rtmp://38.96.148.206/MelodyHits playpath=MHits_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/18 live=1 timeout=15
+#
+type=video
+name=Melody Arabia
+thumb=http://www.lyngsat-logo.com/hires/mm/melody_arabia.png
+URL=rtmp://38.96.148.206/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15 
+#
+type=video
+name=Moga Comedy
+thumb=http://www.lyngsat-logo.com/logo/tv/mm/moga_comedy_tv.jpg
+URL=rtmp://75.126.107.118:1935/live playpath=azsq879?id=149842 swfUrl=http://mips.tv/content/scripts/eplayer.swf conn=S:OK pageUrl=http://mips.tv/embedplayer/azsq879/1/500/400
+#
+type=video
+name=MTV Lebanon
+thumb=http://www.lyngsat-logo.com/hires/mm/murr_tv_al_lubnaniya.png
+URL=rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=1 swfVfy=1 timeout=15
+#
+type=video
+name=Noor Dubai 
+thumb=http://static.filmon.com/couch/channels/1772/extra_big_logo.png 
+URL=plugin://plugin.video.MyFilmOn/?url=1772&mode=1 
+#
+type=video
+name=Nile Cinma
+thumb=http://www.lyngsat-logo.com/hires/nn/nile_cinema.png
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=cinema
+#
+type=video
+name=Nile Drama
+thumb=http://www.lyngsat-logo.com/hires/nn/nile_drama.png
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=drama
+#
+type=video
+name=Nile Comedy
+thumb=http://www.lyngsat-logo.com/hires/nn/nile_comedy.png
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=comedy
+#
+type=video
+name=Nile Culture
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nile_culture.jpg
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=culture
+#
+type=video
+name=Nile Family
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nile_familiekids.jpg
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=family
+#
+type=video
+name=Nile Learning
+thumb=http://www.lyngsat-logo.com/logo/tv/nn/nile_educational.jpg
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileLearning playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=learning
+#
+type=video
+name=Nile Life
+thumb=http://www.lyngsat-logo.com/hires/nn/nile_life.png
+URL=rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=life
+#
+type=video
+name=ON TV
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcTCCCZ1nPJ4JroOCwdjg359SR_1ZkhwJBjUUcPRlw9zOtr-wALl
+URL=http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
+#
+type=video
+name=ON TV Live
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcTCCCZ1nPJ4JroOCwdjg359SR_1ZkhwJBjUUcPRlw9zOtr-wALl
+URL=http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
+#
+type=video
+name=Panorama Action
+thumb=http://www.lyngsat-logo.com/logo/tv/pp/panorama_drama.jpg
+URL=rtmp://208.101.9.155/live playpath=aflam4youddd?id=152675 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf  pageUrl=http://mips.tv/embedplayer/aflam4youddd/1/500/400
+#
+type=video
+name=ROTANA MUSIC
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_mousica.png
+URL=plugin://plugin.video.MyFilmOn/?url=2600&mode=1
+#
+type=video
+name=ROTANA CINEMA
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_cinema.png
+URL=plugin://plugin.video.MyFilmOn/?url=2615&mode=1
+#
+type=video
+name=ROTANA Clip
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_clip.png
+URL=plugin://plugin.video.MyFilmOn/?url=2603&mode=1
+#
+type=video
+name=Rotana Aflam
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_aflam.png
+URL=plugin://plugin.video.MyFilmOn/?url=2618&mode=1
+#
+type=video
+name=ROTANA Classic
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_zaman.png
+URL=plugin://plugin.video.MyFilmOn/?url=2609&mode=1
+#
+type=video
+name=Rotana Masriya
+thumb=http://www.lyngsat-logo.com/hires/rr/rotana_masriya.png
+URL=plugin://plugin.video.MyFilmOn/?url=689&mode=1
+#
