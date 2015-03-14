@@ -1,10 +1,40 @@
 type=video
+name=TV1
+thumb=http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png
+URL=http://maya.layarku.tv:1935/mylive/smil:tv1_all.smil/media.m3u8
+#
+type=video
+name=TV2
+thumb=http://m.rtm.gov.my/en/img/logostesentv/tv2/tv2.png
+URL=http://maya.layarku.tv:1935/mylive/smil:tv2_all.smil/media.m3u8
+#
+type=video
 name=TV3
 thumb=http://www.lyngsat-logo.com/hires/tt/tv3_my.png
 URL=http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 #
 type=video
-name=Al Nahar +2
-thumb=http://www.alnaharlive.net/wp-content/uploads/2013/01/nahar-home-mainlogo.png
-URL=rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+name=TV9
+thumb=http://upload.wikimedia.org/wikipedia/en/archive/b/be/20130319160842!NewlogoTV9_(Malaysia).png
+URL=http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+#
+type=video
+name=Astro Awani
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/501_300.png
+URL=rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf live=1
+#
+type=video
+name=NTV7
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/107_300.png
+URL=http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+#
+type=video
+name=8TV
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/708_300.png
+URL=http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#
+type=video
+name=TV Alhijrah
+thumb=http://www.layarku.tv/images/alhijrah.jpg
+URL=http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/chunklist_w1201122783_b800000.m3u8
 #
