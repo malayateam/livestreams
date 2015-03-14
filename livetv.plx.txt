@@ -38,3 +38,48 @@ name=TV Alhijrah
 thumb=http://www.layarku.tv/images/alhijrah.jpg
 URL=http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
 #
+type=video
+name=Bernama TV
+thumb=https://lh6.googleusercontent.com/-RYEtFxHxGT0/TXihFjozpnI/AAAAAAAAE28/SnLjdkP4k58/s1600/Logo+Bernama.png
+URL=http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#
+type=video
+name=TVi
+thumb=http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png
+URL=http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+#
+type=video
+name=TV Selangor
+thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
+URL=rtmp://live2.selangorku.com/selangorlive2/channel1
+#
+type=video
+name=1Hijau TV
+thumb=http://www.1hijau.tv/images/1hijau_logo.png
+URL=rtmp://119.110.96.71/live/1htv
+#
+type=video
+name=MYTV
+thumb=http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg
+URL=http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8
+#
+type=video
+name=RTM Muzik Aktif
+thumb=http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png
+URL=http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+#
+type=video
+name=RTM Galaksi Muzik
+thumb=http://www.galaksimuzik.com/logo.png
+URL=http://supercharged.stream.my/live/ngrp:rtm-ch007.stream_all/playlist.m3u8
+#
+type=video
+name=RTM 1News
+thumb=http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png
+URL=http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+#
+type=video
+name=RTM Parliament
+thumb=http://m.rtm.gov.my/en/img/logostesentv/parlimen/parlimen.png
+URL=http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+#
