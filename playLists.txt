@@ -2,6 +2,6 @@
 {"url": "http://pastebin.com/raw.php?i=U4B8UYMj", "name": "[COLOR red]Malaysia TV[/COLOR]"},
 {"url": "http://www.navixtreme.com/wiilist/146623/hammy_40_2015_%28audio_options_on_some_streams%29.plx", "name": "[COLOR red]Hammy World TV[/COLOR]"},
 {"url": "http://www.navixtreme.com/wiilist/day.plx", "name": "[COLOR red]World TV - Day[/COLOR]"},
-{"url": "http://www.faiznetwork.com/tivo/channel.m3u", "name": "[COLOR red]Lista[/COLOR]", "iconimage": "http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png"},
+{"url": "http://www.faiznetwork.com/tivo/channel.m3u", "name": "[COLOR red]Lista[/COLOR]", "http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png"},
 {"url": "https://raw.githubusercontent.com/malayateam/livestreams/master/livetvradio.plx.txt", "name": "[COLOR red]Lista 3[/COLOR]"}
 ]
