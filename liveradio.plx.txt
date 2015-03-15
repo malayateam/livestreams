@@ -119,7 +119,7 @@ thumb=http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/s_jazz.
 URL=http://astro4.rastream.com/jazz
 #
 type=video
-name=Rock FM
+name=Classic Rock FM
 thumb=http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/s_rock.png
 URL=http://astro4.rastream.com/rock
 #
