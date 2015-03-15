@@ -64,6 +64,11 @@ thumb=http://ai-i3.infcdn.net/icons_siandroid/jpg/124/1150/1150856.jpg
 URL=http://72.20.10.34:8000/;stream.mp3
 #
 type=video
+name=RTM Galaksi Muzik
+thumb=http://www.galaksimuzik.com/logo.png
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch007.stream_360p/playlist.m3u8
+#
+type=video
 name=Bapakku FM
 thumb=http://2.bp.blogspot.com/-AJWTRc0SN5k/T3E_WeQBw2I/AAAAAAAAAoU/18eOj0rDi7s/s400/BAPAKKU+FM.jpg
 URL=http://radio.bapakku.fm:8000
