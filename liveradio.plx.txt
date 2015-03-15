@@ -84,6 +84,11 @@ thumb=http://august6th.defloix.com/wp-content/uploads/2012/01/meizu-mx-en-releas
 URL=http://astro1.rastream.com/hitz?type=.flv
 #
 type=video
+name=Best 104
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnW2LBEOrUU_3sIPmNviWO6R4Z9ZrtC6p62Jv6tDZxXbGehKz7
+URL=http://69.197.60.122:8000/;stream.mp3
+#
+type=video
 name=Mix FM
 thumb=http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg
 URL=http://astro2.rastream.com/mix?type=.flv
