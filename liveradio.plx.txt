@@ -11,7 +11,7 @@ URL=http://2343.live.streamtheworld.com/HOTFMAAC
 type=video
 name=Hot FM Kelate
 thumb=http://apps.hotfm.com.my/streaming/Hot-FM-Kelate-Logo-White.jpg
-URL=http://2633.live.streamtheworld.com/HOTFMKELATEAA
+URL=http://2633.live.streamtheworld.com/HOTFMKELATEAAC?type=.flv
 #
 type=video
 name=Hot FM T'Ganu
