@@ -76,5 +76,5 @@ URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/playlist.m3
 type=video
 name=TV Selangor
 thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
-URL=https://www.youtube.com/v/reNNBrF2vpI
+URL=plugin://plugin.video.youtube/?action=play_video&amp;videoid=reNNBrF2vpI
 #
