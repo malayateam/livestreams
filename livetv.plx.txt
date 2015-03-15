@@ -49,11 +49,6 @@ thumb=http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png
 URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
 #
 type=video
-name=TV Selangor
-thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
-URL=rtmp://live2.selangorku.com/selangorlive2/channel1
-#
-type=video
 name=1Hijau TV
 thumb=http://www.1hijau.tv/images/1hijau_logo.png
 URL=rtmp://119.110.96.71/live/1htv
@@ -70,7 +65,7 @@ URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3
 #
 type=video
 name=Aksi Sukan
-thumb=http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png
+thumb=http://myklik.rtm.gov.my/img/logo/tv/aksisukan.jpg
 URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch022.stream/playlist.m3u8
 #
 type=video
@@ -87,4 +82,9 @@ type=video
 name=MYTV
 thumb=http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg
 URL=http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8
+#
+type=video
+name=TV Selangor
+thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
+URL=rtmp://live2.selangorku.com/selangorlive2/channel1
 #
