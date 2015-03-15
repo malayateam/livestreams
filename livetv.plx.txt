@@ -46,7 +46,7 @@ URL=http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 type=video
 name=TVi
 thumb=http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png
-URL=http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch005.stream_360p/playlist.m3u8
 #
 type=video
 name=TV Selangor
@@ -59,14 +59,24 @@ thumb=http://www.1hijau.tv/images/1hijau_logo.png
 URL=rtmp://119.110.96.71/live/1htv
 #
 type=video
-name=MYTV
-thumb=http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg
-URL=http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8
-#
-type=video
 name=RTM Muzik Aktif
 thumb=http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png
-URL=http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch006.stream_360p/playlist.m3u8
+#
+type=video
+name=RTM 1News
+thumb=http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch020.stream_360p/playlist.m3u8
+#
+type=video
+name=Aksi Sukan
+thumb=http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch022.stream/playlist.m3u8
+#
+type=video
+name=RTM Parliament
+thumb=http://m.rtm.gov.my/en/img/logostesentv/parlimen/parlimen.png
+URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/playlist.m3u8
 #
 type=video
 name=RTM Galaksi Muzik
@@ -74,12 +84,7 @@ thumb=http://www.galaksimuzik.com/logo.png
 URL=http://supercharged.stream.my/live/ngrp:rtm-ch007.stream_all/playlist.m3u8
 #
 type=video
-name=RTM 1News
-thumb=http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png
-URL=http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
-#
-type=video
-name=RTM Parliament
-thumb=http://m.rtm.gov.my/en/img/logostesentv/parlimen/parlimen.png
-URL=http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+name=MYTV
+thumb=http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg
+URL=http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8
 #
