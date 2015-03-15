@@ -56,7 +56,7 @@ URL=http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
 type=video
 name=KL FM
 thumb=http://3.bp.blogspot.com/_g-foQEajo98/TUGKbExn9dI/AAAAAAAAASY/1AqpqtC1PMw/s1600/klfm%2Blogo.jpg
-URL=http://turbo.stream.my/live/mp4:rtm-ch012/playlist.m3u8
+URL=http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch012.stream/playlist.m3u8
 #
 type=video
 name=Kelantan FM
