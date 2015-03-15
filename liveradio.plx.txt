@@ -46,7 +46,7 @@ URL=http://69.197.60.122:8000/;stream.mp3
 type=video
 name=Klasik Nasional FM
 thumb=http://mydeskradio.com/images/radios/big/logo0_1302894004-klasik.png
-URL=http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8
+URL=http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch010.stream/playlist.m3u8
 #
 type=video
 name=Nasional FM
