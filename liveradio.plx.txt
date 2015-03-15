@@ -59,6 +59,11 @@ thumb=http://3.bp.blogspot.com/_g-foQEajo98/TUGKbExn9dI/AAAAAAAAASY/1AqpqtC1PMw/
 URL=http://turbo.stream.my/live/mp4:rtm-ch012/playlist.m3u8
 #
 type=video
+name=Kelantan FM
+thumb=http://ai-i3.infcdn.net/icons_siandroid/jpg/124/1150/1150856.jpg
+URL=http://72.20.10.34:8000/;stream.mp3
+#
+type=video
 name=Bapakku FM
 thumb=http://2.bp.blogspot.com/-AJWTRc0SN5k/T3E_WeQBw2I/AAAAAAAAAoU/18eOj0rDi7s/s400/BAPAKKU+FM.jpg
 URL=http://radio.bapakku.fm:8000
@@ -96,7 +101,7 @@ URL=http://astro1.rastream.com/lite?type=.flv
 type=video
 name=Traxx FM
 thumb=http://www.dengaronline.com/wp-content/uploads/2012/12/Traxx-FM1.png
-URL=http://turbo.stream.my/live/mp4:rtm-ch013/playlist.m3u8
+URL=http://streamer1.cf.aws.stream.my/audio/mp4:rtm-ch013.stream/playlist.m3u8
 #
 type=video
 name=My FM
