@@ -14,11 +14,6 @@ thumb=http://apps.hotfm.com.my/streaming/Hot-FM-Kelate-Logo-White.jpg
 URL=http://2633.live.streamtheworld.com/HOTFMKELATEAA
 #
 type=video
-name=TV9
-thumb=http://upload.wikimedia.org/wikipedia/en/archive/b/be/20130319160842!NewlogoTV9_(Malaysia).png
-URL=http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-#
-type=video
 name=Hot FM T'Ganu
 thumb=http://apps.hotfm.com.my/streaming/Hot-FM-Tganu-Logo-White.jpg
 URL=http://2173.live.streamtheworld.com/HOTFMTGANUAAC
@@ -82,4 +77,54 @@ type=video
 name=Hitz FM
 thumb=http://august6th.defloix.com/wp-content/uploads/2012/01/meizu-mx-en-release.jpg
 URL=http://astro1.rastream.com/hitz?type=.flv
+#
+type=video
+name=Mix FM
+thumb=http://www.liveonlineradio.net/wp-content/uploads/2011/06/Mix-FM2.jpg
+URL=http://astro2.rastream.com/mix?type=.flv
+#
+type=video
+name=Red FM
+thumb=http://radiomalaysia.mega-resources.info/wp-content/uploads/2013/11/redfm.png
+URL=http://starrfm.rastream.com/starrfm-redfm?type=.flv
+#
+type=video
+name=Lite FM
+thumb=http://www.malaysianopentennis.com/2011/sponsors_use/s_Litefm.jpg
+URL=http://astro1.rastream.com/lite?type=.flv
+#
+type=video
+name=Traxx FM
+thumb=http://www.dengaronline.com/wp-content/uploads/2012/12/Traxx-FM1.png
+URL=http://turbo.stream.my/live/mp4:rtm-ch013/playlist.m3u8
+#
+type=video
+name=My FM
+thumb=https://d2uykijsw1jrmd.cloudfront.net/media/cache/0a/a3/0aa3b7ef19c09594c52d66f66485c074.jpg
+URL=http://astro1.rastream.com/myfm?type=.flv
+#
+type=video
+name=Opus FM
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/862_300.png
+URL=http://astro4.rastream.com/opus
+#
+type=video
+name=Gold FM
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/861_300.png
+URL=http://astro4.rastream.com/gold
+#
+type=video
+name=Jazz FM
+thumb=http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/s_jazz.png
+URL=http://astro4.rastream.com/jazz
+#
+type=video
+name=Rock FM
+thumb=http://www.astroradio.com.my/App_Themes/AstroRadio/images/stations/s_rock.png
+URL=http://astro4.rastream.com/rock
+#
+type=video
+name=THR Raaga
+thumb=http://raaga.thr.fm/getmedia/d24017fb-ce8c-44c3-af10-12c0ca1814f0/raaga-glow_1.png.aspx?width=229&height=266&ext=.png
+URL=http://astro3.rastream.com/raaga?type=.flv
 #
