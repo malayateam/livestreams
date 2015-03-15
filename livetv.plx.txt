@@ -74,11 +74,6 @@ thumb=http://m.rtm.gov.my/en/img/logostesentv/parlimen/parlimen.png
 URL=http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch009.stream_360p/playlist.m3u8
 #
 type=video
-name=MYTV
-thumb=http://hardwarecrazy.com/gambar/albums/userpics/10001/mytv.jpg
-URL=http://202.73.9.10:1935/live2/smil:mytv.smil/playlist.m3u8
-#
-type=video
 name=TV Selangor
 thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
 URL=rtmp://live2.selangorku.com/selangorlive2/channel1
