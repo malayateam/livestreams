@@ -1,5 +1,5 @@
 type=video
-name=Action Cinema
+name=Action Cinema 2
 thumb=
 URL=plugin://plugin.video.filmontv/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
 #
