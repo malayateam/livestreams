@@ -1,10 +1,15 @@
 type=video
-name=Food Network
-thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
+name=Action Cinema
+thumb=
+URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
 #
 type=video
 name=CBS Drama
 thumb=https://scryptyd.files.wordpress.com/2013/02/cbs-drama.jpg
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/cbs-drama
+#
+type=video
+name=Food Network
+thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
+URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
 #
