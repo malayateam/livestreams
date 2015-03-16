@@ -80,6 +80,6 @@ URL=plugin://plugin.video.youtube/?action=play_video&amp;videoid=reNNBrF2vpI
 #
 type=video
 name=Food Network
-thumb=http://www.travelsworlds.com/wp-content/uploads/2013/12/food-network-channel-logo10-top-tv-channels-in-the-world---rankford-8ttg5t9j.jpg
+thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
 #
