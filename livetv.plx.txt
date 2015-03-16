@@ -78,3 +78,8 @@ name=TV Selangor
 thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
 URL=plugin://plugin.video.youtube/?action=play_video&amp;videoid=reNNBrF2vpI
 #
+type=video
+name=Food Network
+thumb=http://www.travelsworlds.com/wp-content/uploads/2013/12/food-network-channel-logo10-top-tv-channels-in-the-world---rankford-8ttg5t9j.jpg
+URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
+#
