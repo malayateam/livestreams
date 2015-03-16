@@ -78,13 +78,3 @@ name=TV Selangor
 thumb=http://1.bp.blogspot.com/-rlAwcTetQ5s/UbCnhBh03NI/AAAAAAAAFh0/_ETxluQyxZQ/s1600/tvs.png
 URL=plugin://plugin.video.youtube/?action=play_video&amp;videoid=reNNBrF2vpI
 #
-type=video
-name=Food Network
-thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
-#
-type=video
-name=CBS Drama
-thumb=https://scryptyd.files.wordpress.com/2013/02/cbs-drama.jpg
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/cbs-drama
-#
