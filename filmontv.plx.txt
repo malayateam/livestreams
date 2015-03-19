@@ -6,9 +6,9 @@ thumb=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/itv1
 #
 type=video
-name=Action Cinema 3
+name=Action Cinema
 thumb=
-URL=plugin://plugin.video.F.T.V/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
+URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
 #
 type=video
 name=CBS Drama
@@ -24,4 +24,9 @@ type=video
 name=ITV
 thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV1+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
+#
+type=video
+name=ITV Test
+thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV1+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png
 #
