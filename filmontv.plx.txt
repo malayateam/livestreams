@@ -20,3 +20,8 @@ name=Food Network
 thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
 #
+type=video
+name=ITV1
+thumb=
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV1+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
+#
