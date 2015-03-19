@@ -23,3 +23,8 @@ name=TV9
 thumb=http://upload.wikimedia.org/wikipedia/en/archive/b/be/20130319160842!NewlogoTV9_(Malaysia).png
 URL=plugin://plugin.video.f4mTester/?url=http://tv9liveflash-lh.akamaihd.net/z/tv9live_9@86094/manifest.f4m?hdcore=2.7.6&g=VQMEUBYNGNCW
 #
+type=video
+name=NTV7
+thumb=http://upload.wikimedia.org/wikipedia/en/archive/b/be/20130319160842!NewlogoTV9_(Malaysia).png
+URL=plugin://plugin.video.f4mTester/?url=http://ntv7liveflash-lh.akamaihd.net/z/ntv7live_7@86096/manifest.f4m?hdcore=2.10.3
+#
