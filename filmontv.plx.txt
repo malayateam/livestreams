@@ -21,7 +21,7 @@ thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.p
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
 #
 type=video
-name=ITV1
+name=ITV UK
 thumb=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV1+&iconimage=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg&start=itv1&ch_fanart=11
 #
