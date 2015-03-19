@@ -1,7 +1,7 @@
 type=video
 name=Action Cinema
 thumb=
-URL=plugin://plugin.video.F.T.V/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
+URL=plugin://plugin.video.filmontv/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
 #
 type=video
 name=CBS Drama
