@@ -25,6 +25,6 @@ URL=plugin://plugin.video.f4mTester/?url=http://tv9liveflash-lh.akamaihd.net/z/t
 #
 type=video
 name=NTV7
-thumb=http://upload.wikimedia.org/wikipedia/en/archive/b/be/20130319160842!NewlogoTV9_(Malaysia).png
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/107_300.png
 URL=plugin://plugin.video.f4mTester/?url=http://ntv7liveflash-lh.akamaihd.net/z/ntv7live_7@86096/manifest.f4m?hdcore=2.10.3
 #
