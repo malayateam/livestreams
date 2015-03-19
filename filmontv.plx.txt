@@ -1,9 +1,8 @@
 background=http://www.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
 #
 type=video
-name=ITV Channel
+name=ITV
 thumb=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
-logo=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/itv1
 #
 type=video
