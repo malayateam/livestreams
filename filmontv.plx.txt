@@ -28,3 +28,8 @@ name=NTV7
 thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/107_300.png
 URL=plugin://plugin.video.f4mTester/?url=http://ntv7liveflash-lh.akamaihd.net/z/ntv7live_7@86096/manifest.f4m?hdcore=2.10.3
 #
+type=video
+name=8TV
+thumb=http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/708_300.png
+URL=plugin://plugin.video.f4mTester/?url=http://8tvliveflash-lh.akamaihd.net/z/8tvlive_8@86097/manifest.f4m?hdcore=2.10.3
+#
