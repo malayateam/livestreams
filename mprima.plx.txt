@@ -1,7 +1,7 @@
 type=video
 name=TV3 Malaysia
 thumb=http://www.lyngsat-logo.com/hires/tt/tv3_my.png
-URL=plugin://plugin.video.mxbbc/?url=http%3A%2F%2Ftv3liveflash-lh.akamaihd.net%2Fz%2Ftv3live_3%4086099%2Fmanifest.f4m%3Fg%3DWKQSAUQBYOVB%26hdcore%3D3.3.0%26plugin%3Djwplayer-3.3.0.0
+URL=plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv3liveflash-lh.akamaihd.net%2Fz%2Ftv3live_3%4086099%2Fmanifest.f4m%3Fg%3DWKQSAUQBYOVB%26hdcore%3D3.3.0%26plugin%3Djwplayer-3.3.0.0
 #
 type=video
 name=TV9
