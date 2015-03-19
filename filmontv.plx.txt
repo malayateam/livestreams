@@ -3,30 +3,5 @@ background=http://www.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
 type=video
 name=ITV
 thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/itv1
-#
-type=video
-name=ITV
-thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http%3A%2F%2Fwww.filmon.com%2Ftv%2Fitv1%26iconimage%3Dhttp%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png
-#
-type=video
-name=Action Cinema
-thumb=
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/action-cinema
-#
-type=video
-name=CBS Drama
-thumb=https://scryptyd.files.wordpress.com/2013/02/cbs-drama.jpg
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/cbs-drama
-#
-type=video
-name=Food Network
-thumb=http://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
-URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/food-network
-#
-type=video
-name=ITV
-thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
 #
