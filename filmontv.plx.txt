@@ -1,11 +1,9 @@
-version=7
 background=http://www.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
-title=navi-xtreme  -  user media  -  lists 595 to 792 of 2651
-logo=http://www.navixtreme.com/images/logos/users.png
 #
 type=video
-name=ITV UK
+name=ITV Channel
 thumb=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
+logo=http://www.thedrum.com/uploads/news/173477/itv%20new%20logo.jpg
 URL=plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.filmon.com/tv/itv1
 #
 type=video
