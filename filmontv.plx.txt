@@ -20,3 +20,8 @@ name=ITV4
 thumb=http://static.filmon.com/couch/channels/101/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv4&mode=125&name=ITV4&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F101%2Fextra_big_logo.png&start=itv4&ch_fanart=101
 #
+type=video
+name=Food Network
+thumb=http://static.filmon.com/couch/channels/20/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Ffood-network&mode=125&name=Food+Network&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F20%2Fextra_big_logo.png&start=food-network&ch_fanart=20
+#
