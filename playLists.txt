@@ -1,6 +1,5 @@
 [
 {"url": "https://raw.githubusercontent.com/malayateam/livestreams/master/livetv.plx.txt", "name": "[COLOR red]Malaysia TV[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/malayateam/livestreams/master/liveradio.plx.txt", "name": "[COLOR red]Malaysia Radio[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/malayateam/livestreams/master/mprima.plx.txt", "name": "[COLOR red]Media Prima TV[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/malayateam/livestreams/master/filmontv.plx.txt", "name": "[COLOR red]FilmOn TV[/COLOR]"}
 ]
