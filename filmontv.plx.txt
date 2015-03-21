@@ -6,7 +6,7 @@ thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
 #
 type=video
-name=History UK
+name=History USA
 thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
-URL=plugin://plugin.video.skygo/?mode=playVideo&thumb=http%3a%2f%2fepgstatic.sky.com%2fepgdata%2f1.0%2fnewchanlogos%2f75%2f35%2fskychb1875.png&url=name%3dHistory%26channel_id%3d529%26channel_url%3da8229c1685a04210VgnVCM1000002c04170a____%26epgID%3d1875
+URL=plugin://plugin.video.ustvnow/?mode=play&name=History
 #
