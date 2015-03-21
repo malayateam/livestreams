@@ -1,12 +1,12 @@
 background=http://www.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
 #
 type=video
-name=ITV2
+name=ITV
 thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
 #
 type=video
-name=History USA
-thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
-URL=plugin://plugin.video.ustvnow/?mode=play&name=History
+name=ITV2
+thumb=http://static.filmon.com/couch/channels/67/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv2&mode=125&name=ITV2&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F67%2Fextra_big_logo.png&start=itv2&ch_fanart=67
 #
