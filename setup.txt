@@ -1,0 +1,10 @@
+281
+BBB, http://www.brasiltvs.com/adminapp/images/bbb.png, http://94.242.228.121:1935/live/bbb/playlist.m3u8
+AMC, http://www.brasiltvs.com/adminapp/images/amc.png, http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8
+ABCNEWS, http://www.brasiltvs.com/adminapp/images/abcnews.png, http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+ANIMAL PLANET, http://www.brasiltvs.com/adminapp/images/animal_planet.png, rtmp://31.204.128.75/live/ playpath=30 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Animal%20Planet.html live=1
+AXN, http://www.brasiltvs.com/adminapp/images/axn.png, rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
+AE, http://www.brasiltvs.com/adminapp/images/ae.png, rtmp://109.200.202.124/live/ playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ae.html
+ADNET, http://www.brasiltvs.com/adminapp/images/adinet.png, http://72.55.156.19:1935/adinetgospel/adinetgospel/playlist.m3u8
+APARECIDA, http://www.brasiltvs.com/adminapp/images/aparecida.png, rtmp://caikrondatacenter.com.br:1935/tvaparecida/ playpath=tvaparecida.stream swfUrl=http://www.tvtuga.com/live47/player.swf live=true timeout=15 pageUrl=http://www.tvtuga.com/tv-aparecida/ live=1
+BATMAN, http://www.brasiltvs.com/adminapp/images/batman.png, http://66.90.111.2:1935/ctv/batman/playlist.m3u8
