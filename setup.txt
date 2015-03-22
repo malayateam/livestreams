@@ -1,5 +1,5 @@
 281
-TV3, http://www.lyngsat-logo.com/hires/tt/tv3_my.png, plugin://plugin.video.f4mTester/?url=http://tv3liveflash-lh.akamaihd.net/z/tv3live_3@86099/manifest.f4m?hdcore=2.10.3
+TV3, http://www.lyngsat-logo.com/hires/tt/tv3_my.png, http://tv3liveflash-lh.akamaihd.net/z/tv3live_3@86099/manifest.f4m?hdcore=2.10.3
 AMC, http://www.brasiltvs.com/adminapp/images/amc.png, http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8
 ABCNEWS, http://www.brasiltvs.com/adminapp/images/abcnews.png, http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 ANIMAL PLANET, http://www.brasiltvs.com/adminapp/images/animal_planet.png, rtmp://31.204.128.75/live/ playpath=30 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Animal%20Planet.html live=1
