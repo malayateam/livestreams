@@ -1,6 +1,31 @@
 background=http://www.navixtreme.com/images/backgrounds/bkg_navix_bh_plain.jpg
 #
 type=video
+name=Action Cinema
+thumb=http://static.filmon.com/couch/channels/500/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Faction-cinema&mode=125&name=Action+Cinema&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F500%2Fextra_big_logo.png&start=action-cinema&ch_fanart=500
+#
+type=video
+name=Action Zone
+thumb=http://static.filmon.com/couch/channels/1045/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Faction-zone&mode=125&name=Action+Zone&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1045%2Fextra_big_logo.png&start=action-zone&ch_fanart=1045
+#
+type=video
+name=American Horrors
+thumb=http://static.filmon.com/couch/channels/393/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Famerican-horrors&mode=125&name=American+Horrors&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F393%2Fextra_big_logo.png&start=american-horrors&ch_fanart=393
+#
+type=video
+name=American Primetime Television
+thumb=http://static.filmon.com/couch/channels/707/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Famerican-primetime-television&mode=125&name=American+Primetime+Television&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F707%2Fextra_big_logo.png&start=american-primetime-television&ch_fanart=707
+#
+type=video
+name=Arte
+thumb=http://static.filmon.com/couch/channels/1729/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Farte-franais&mode=125&name=ARTE+Fran%C3%A7ais&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1729%2Fextra_big_logo.png&start=arte-franais&ch_fanart=1729
+#
+type=video
 name=BBC One
 thumb=http://static.filmon.com/couch/channels/14/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbbc-one&mode=125&name=BBC+One&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F14%2Fextra_big_logo.png&start=bbc-one&ch_fanart=14
@@ -21,9 +46,9 @@ thumb=http://static.filmon.com/couch/channels/103/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbeebiesbbc-four&mode=125&name=CBEEBIES%2FBBC+Four&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F103%2Fextra_big_logo.png&start=cbeebiesbbc-four&ch_fanart=103
 #
 type=video
-name=CBBC
-thumb=http://static.filmon.com/couch/channels/113/extra_big_logo.png
-URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbbcbbc-three&mode=125&name=CBBC%2FBBC+Three&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F113%2Fextra_big_logo.png&start=cbbcbbc-three&ch_fanart=113
+name=Bloomberg
+thumb=http://static.filmon.com/couch/channels/81/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fbloomberg&mode=125&name=Bloomberg&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F81%2Fextra_big_logo.png&start=bloomberg&ch_fanart=81
 #
 type=video
 name=CBS Drama
@@ -39,6 +64,11 @@ type=video
 name=CBS Reality+1
 thumb=http://static.filmon.com/couch/channels/1811/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbs-reality1&mode=125&name=CBS+Reality%2B1&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1811%2Fextra_big_logo.png&start=cbs-reality1&ch_fanart=1811
+#
+type=video
+name=CCTV9 Documentary
+thumb=http://static.filmon.com/couch/channels/2786/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcctv9-documentary&mode=125&name=CCTV9+Documentary&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F2786%2Fextra_big_logo.png&start=cctv9-documentary&ch_fanart=2786
 #
 type=video
 name=ITV
