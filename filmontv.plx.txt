@@ -21,6 +21,26 @@ thumb=http://static.filmon.com/couch/channels/103/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbeebiesbbc-four&mode=125&name=CBEEBIES%2FBBC+Four&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F103%2Fextra_big_logo.png&start=cbeebiesbbc-four&ch_fanart=103
 #
 type=video
+name=CBBC
+thumb=http://static.filmon.com/couch/channels/113/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbbcbbc-three&mode=125&name=CBBC%2FBBC+Three&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F113%2Fextra_big_logo.png&start=cbbcbbc-three&ch_fanart=113
+#
+type=video
+name=CBS Drama
+thumb=http://static.filmon.com/couch/channels/1805/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbs-drama&mode=125&name=CBS+Drama&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1805%2Fextra_big_logo.png&start=cbs-drama&ch_fanart=1805
+#
+type=video
+name=CBS Reality
+thumb=http://static.filmon.com/couch/channels/1808/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbs-reality&mode=125&name=CBS+Reality&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1808%2Fextra_big_logo.png&start=cbs-reality&ch_fanart=1808
+#
+type=video
+name=CBS Reality+1
+thumb=http://static.filmon.com/couch/channels/1811/extra_big_logo.png
+URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcbs-reality1&mode=125&name=CBS+Reality%2B1&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1811%2Fextra_big_logo.png&start=cbs-reality1&ch_fanart=1811
+#
+type=video
 name=ITV
 thumb=http://static.filmon.com/couch/channels/11/extra_big_logo.png
 URL=plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fitv1&mode=125&name=ITV+&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F11%2Fextra_big_logo.png&start=itv1&ch_fanart=11
