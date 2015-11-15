@@ -1,0 +1,5 @@
+<item>
+<title>BT Sport 2</title>
+<sportsdevil>http://www.crichd.tv/bt-sport-2-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
