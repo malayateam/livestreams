@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 1 [Link 1]
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 1 [Link 2]
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 2 [Link 1]
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="",RTM 2 [Link 2]
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="",RTM Okey [Link 1]
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="OKEY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-country="MY" tvg-url="" group-title="",RTM Okey [Link 2]
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-country="MY" tvg-url="" group-title="News",Berita RTM [Link 1]
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-country="MY" tvg-url="" group-title="News",Berita RTM [Link 2]
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="RTS.MY" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-country="MY" tvg-url="" group-title="Sports",RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kOh9Zq8BiV2T27tKDcqVsE)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k4DhhBveIHpgNwrApah
+                         
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" tvg-country="MY" tvg-url="" group-title="",NTV7 [Link 1]
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" tvg-country="MY" tvg-url="" group-title="",NTV7 [Link 2]
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSlIASGY)/dm/3/x7a7rxp/s/live-4.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-country="MY" tvg-url="" group-title="",8TV [Link 1]
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-country="MY" tvg-url="" group-title="",8TV [Link 2]
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nZRNA8rhPV7MgJqObw-LGM)/dm/3/x7a7ru1/s/live-4.m3u8
+
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qPh9SRKThaG7MGhgOrPxVM)/dm/3/x7a7rf7/s/live-4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Entertainment",TV Pertiwi
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
