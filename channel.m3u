@@ -39,13 +39,13 @@ https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSl
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-country="MY" tvg-url="" group-title="",8TV [Link 1]
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-country="MY" tvg-url="" group-title="",8TV [Link 2]
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-country="MY" tvg-url="" group-title="News;Malaysia",8TV [Link 2]
 https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nZRNA8rhPV7MgJqObw-LGM)/dm/3/x7a7ru1/s/live-4.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qPh9SRKThaG7MGhgOrPxVM)/dm/3/x7a7rf7/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Entertainment; Malaysia",TV Pertiwi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Entertainment;Malaysia",TV Pertiwi
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="",TV Ikim
