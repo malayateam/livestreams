@@ -122,3 +122,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093
 
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="News",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Movie",HBO
+http://136.243.177.164/HBO/playlist.m3u8
