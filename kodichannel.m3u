@@ -33,6 +33,10 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,CLOSED-CAPTION=NONE,NAME="1080" 
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q09GVfaFdNROkb5tsdefxo)/dm/3/x7a7rpm/s/live-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/1news_RTM.png" group-title="News",1 News
 http://rtmonenewsmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="",8TV
