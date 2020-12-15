@@ -99,7 +99,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Movie",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Documentary",Crime & Investigation 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C6o1RSDWsAAEDQa.jpg" group-title="Documentary",Crime & Investigation 
 http://203.154.243.31:15001 
 
 #EXTINF:-1 tvg-ID="Hello" tvg-logo="https://www.allansonstreetprimary.co.uk/wp-content/uploads/2020/05/hello.jpg" group-title="Entertainment",Hello
