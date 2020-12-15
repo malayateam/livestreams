@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 ch-id="TV 9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Infotainment",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
+#EXTINF:-1 ch-id="Drama Sangat" tvg-logo="https://static10.tgstat.ru/channels/_0/e8/e8d015d17d29e7d0db09b5136c6e3f0e.jpg" group-title="Entertainment",Drama Sangat 
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Infotainment",TV Pertiwi
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 
