@@ -102,8 +102,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="News",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
+#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://personalexcellence.co/files/channel-news-asia-logo.jpg" group-title="News",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UK" tvg-url="" group-title="Movie",HBO
 http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movie",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C6o1RSDWsAAEDQa.jpg" group-title="Documentary",Crime & Investigation 
 http://203.154.243.31:15001 
@@ -120,7 +126,13 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
 
 #EXTINF:-1 ch-id="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="MY/SG",Channel 5 
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8 
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://www.kindpng.com/picc/m/23-236576_fox-sports-2-hd-png-download.png" group-title="Sports",Fox Sport 2 HD China
+rtmp://59.124.75.156/sat/tv741
+
+#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlJazeeraEng.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg" group-title="MY/SG",Channel 5 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
 
