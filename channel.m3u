@@ -120,47 +120,16 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="EP2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier HD2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlJazeeraEng.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MY/SG",Astro Ria 
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8 
 
 
 
 
 
-#EXTINF:-1 ch-id="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="MY/SG",Channel 5 
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-
-#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://www.kindpng.com/picc/m/23-236576_fox-sports-2-hd-png-download.png" group-title="Sports",Fox Sport 2 HD China
-rtmp://59.124.75.156/sat/tv741
-
-#EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/AlJazeeraEng.png" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg" group-title="MY/SG",Channel 5 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8 
-
-#EXTINF:-1 ch-id="Channel 8" tvg-logo="https://www.loveexpress.com.sg/wp-content/uploads/2017/02/channel-8-logo.jpg" group-title="MY/SG",Channel 8 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
-
-#EXTINF:-1 ch-id="Channel U" tvg-logo="https://unitechmech.com/wp-content/uploads/2018/05/image14.jpeg" group-title="MY/SG",Channel U https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
-
-#EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://www.themangrovelab.com/x/cdn/?https://storage.googleapis.com/wzukusers/user-29321638/images/5970749b5306f2CegOlQ/download.png" group-title="MY/SG",Channel NewsAsia 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8 
-
-#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY/SG",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8 
-
-#EXTINF:-1 ch-id="RTM BES" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY/SG",Berita RTM https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8 
-
-#EXTINF:-1 ch-id="Suria" tvg-logo="https://artefakts.sg/wp02/wp-content/uploads/2019/10/events-logo-suria.jpg" group-title="MY/SG",Suria https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 
-
-#EXTINF:-1 ch-id="Vasantham" tvg-logo="https://pbs.twimg.com/profile_images/1004034269088366592/zHE8qF69.jpg" group-title="MY/SG",Vasantham https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8 
-
-#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/miaomi-tv.jpg" group-title="MY/SG",miao-mi https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8 
-
-#EXTINF:-1 ch-id="TV 1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="MY/SG",TV1 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8 
-
-#EXTINF:-1 ch-id="TV 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MY/SG",TV2 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8 
-
-#EXTINF:-1 ch-id="TV 2" tvg-logo="https://d1marr3m5x4iac.cloudfront.net/images/edpborder500/I0-001/004/341/688-1.jpeg_/tv3-malaysia-88.jpeg" group-title="MY/SG",TV3 https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MY/SG",Astro Ria http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8 
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MY/SG",Astro Warna http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
@@ -206,9 +175,6 @@ https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YoW2Pt.png" group-title="MY/SG",AMC 
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-logo="https://codefornepal.org/wp-content/uploads/2015/07/AJE-campaign-logo-239x300.png" group-title="MY/SG",Al Jazeera 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/20/20a19643a3c36a2b6d3d4d8de4054cb3.jpeg" group-title="MY/SG",AXN 
 https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8 
