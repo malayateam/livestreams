@@ -186,9 +186,6 @@ http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://www.3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/569ff0561115e0973545a242/1459130357169-WX47LRC2MWMYFKU55769/ke17ZwdGBToddI8pDm48kLBcQxRjc7gFL9N1fUk2ruhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE2XT5c7r5hqQKA7xDb01__PLMAul8cyzFqPq23LfTMY1tO8nJtk629tZGIWiyY3XQ/image-asset.png" group-title="Kids",Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
