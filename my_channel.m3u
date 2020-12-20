@@ -15,8 +15,11 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS.MY" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-country="MY" tvg-url="" group-title="Sports",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Infotainment",TV3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Infotainment",TV3
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd 
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Infotainment",TV3 [Link TS]
+https://raw.githubusercontent.com/malayateam/livestreams/master/TV3M.m3u8 
                          
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" tvg-country="MY" tvg-url="" group-title="Infotainment",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
