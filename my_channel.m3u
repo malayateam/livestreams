@@ -57,6 +57,9 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="GoShop" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png" group-title="Entertainment",Astro GoShop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nttBEHw.png" group-title="Entertainment",Astro Naura
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Infotainment",Astro AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
@@ -125,9 +128,6 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvAneKG.jpg" group-title="Knowledge", CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65PYdau.jpg" group-title="Pengetahuan", Animal Planet 
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Entertainment",ABC
 https://c.mjh.nz/101002510251/
