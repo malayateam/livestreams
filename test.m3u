@@ -7,6 +7,23 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="" tvg-logo="",DiscoveryHDWorld
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",MTV_Live_HD
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",RedbyHBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",WarnerTVHD
+http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",Boomerang
+https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",History HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png",FOX SPORTS 1
 http://103.47.132.164/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png",FOX SPORTS 2
