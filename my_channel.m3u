@@ -90,11 +90,17 @@ http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="Entertainment",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="Movies", FOX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="Movies",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3PkgicHOOB8/TvQSWa96HwI/AAAAAAAAAyM/vubm9WcYEmU/s1600/FOX+Movies+Premium+Logo_Mono+Black.jpg" group-title="Movies", Fox Premium Movies
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="Movies",Fox Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3PkgicHOOB8/TvQSWa96HwI/AAAAAAAAAyM/vubm9WcYEmU/s1600/FOX+Movies+Premium+Logo_Mono+Black.jpg" group-title="Movies",Fox Premium Movies
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="Movies",Paramount Channel
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Knowledge",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
@@ -114,6 +120,12 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Sports",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/01/sky-sports-premier-league.png" group-title="Sports",Sky Sports Premier League
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="NGW" tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="Sports",Red Bull TV
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
 
@@ -132,8 +144,14 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Knowledge",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Knowledge",National Geographic
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Knowledge",National Geographic [Link 1]
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Knowledge",National Geographic [Link 2]
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Knowledge",Animal Planet
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvAneKG.jpg" group-title="Knowledge", CGTN Documentary [Link 1]
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -144,7 +162,7 @@ http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Entertainment",ABC
 https://c.mjh.nz/101002510251/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png" group-title="Knowledge", TLC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png" group-title="Knowledge",TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="Infotainment",BBC Two
@@ -174,19 +192,28 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/340?cb=20191123221705" group-title="News",BBC WORLD NEWS 
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/403-4038847_cnn-international-logo-png-cnn-logo-eps-transparent.png" group-title="News",CNN
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="News",Euro News
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="News",France24
 http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="News",RT English
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movie",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8\
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18094323/blue-ant-logo.png" group-title="Movie", Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-r9UZtBqwBQE/WbkdmrOolUI/AAAAAAAADdc/Kx1fXx6aZK0nRW6_x5e_JxPrEh5UJXsxgCLcBGAs/s1600/4kIkHqgj_400x400.jpg" group-title="Movie",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18094323/blue-ant-logo.png" group-title="Movie",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movie", Blue Ant Extreme
