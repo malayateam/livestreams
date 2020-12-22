@@ -246,8 +246,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SportsUnggulan",TDM SPORT MACAU
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",FOX SPORTS HD 1 USA
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 #EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE TENIS HD
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="TEST"  group-title="SportsUnggulan",TRUE GOLF HD
@@ -366,8 +365,7 @@ https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="TEST" group-title="SPORTS",ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",DD sportS
