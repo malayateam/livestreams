@@ -252,8 +252,11 @@ http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="Sports",Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="NGW" tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-ID="NGW" tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="Sports",Red Bull TV [Link 1]
 http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="NGW" tvg-logo="https://www.pngfind.com/pngs/m/19-199352_how-to-install-red-bull-tv-on-kodi.png" group-title="Sports",Red Bull TV [Link 2]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
