@@ -153,6 +153,9 @@ http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier League HD2 [Link 2]
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png" group-title="Sports",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="Knowledge",History HD
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
@@ -225,25 +228,25 @@ http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="News",RT English
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO [Link 1]
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movies",HBO [Link 1]
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO [Link 2]
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movies",HBO [Link 2]
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movie",&Flix HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8\
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-r9UZtBqwBQE/WbkdmrOolUI/AAAAAAAADdc/Kx1fXx6aZK0nRW6_x5e_JxPrEh5UJXsxgCLcBGAs/s1600/4kIkHqgj_400x400.jpg" group-title="Movie",&Prive HD
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-r9UZtBqwBQE/WbkdmrOolUI/AAAAAAAADdc/Kx1fXx6aZK0nRW6_x5e_JxPrEh5UJXsxgCLcBGAs/s1600/4kIkHqgj_400x400.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18094323/blue-ant-logo.png" group-title="Movie",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18094323/blue-ant-logo.png" group-title="Movies",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movie", Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movies", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Movie",Warner TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Movies",Warner TV
 http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C6o1RSDWsAAEDQa.jpg" group-title="Documentary",Crime & Investigation 
@@ -261,7 +264,7 @@ http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zimplaza.co.zw/wp-content/uploads/britcom1546852580.jpg" group-title="Entertainment",BritCom 
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="Movie",ID HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="Movies",ID HD 
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="News",WHDH-TV 
@@ -276,10 +279,10 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Dtml81YvL.png" group-title="Entertainment",BYUtv 
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8 
 
-#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6924/2b200ddfe4fc7919bdf0432fd367fb68b0b7a55cr1-290-218v2_hq.jpg" group-title="Movie",American Horrors 
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6924/2b200ddfe4fc7919bdf0432fd367fb68b0b7a55cr1-290-218v2_hq.jpg" group-title="Movies",American Horrors 
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1374.1569972429.png" group-title="Movie",Sony Movies 
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1374.1569972429.png" group-title="Movies",Sony Movies 
 http://51.52.156.22:8888/http/009 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/15/8/3/cartoon-network-logo-television-channel-png-favpng-L4026W61aJx8Hjw9Lq8TJLAqr.jpg" group-title="Kids",Cartoon Network
