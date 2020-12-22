@@ -126,6 +126,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 [Link 3]
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 [Link 4]
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Sports",Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
@@ -144,8 +147,14 @@ http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
 #EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Sports",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
 
-#EXTINF:-1 tvg-id="EP2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier League HD2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier League HD2 [Link 1]
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier League HD2 [Link 2]
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="Knowledge",History HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://pbs.twimg.com/profile_images/1247126485900709888/aMykPeNw_400x400.jpg" group-title="Knowledge",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
@@ -216,8 +225,11 @@ http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/600px-Russia-today-logo.svg.png" group-title="News",RT English
 http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO [Link 1]
 http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movie",HBO [Link 2]
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movie",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8\
@@ -230,6 +242,9 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movie", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Movie",Warner TV
+http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C6o1RSDWsAAEDQa.jpg" group-title="Documentary",Crime & Investigation 
 http://203.154.243.31:15001 
