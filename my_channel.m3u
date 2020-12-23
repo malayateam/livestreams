@@ -138,9 +138,6 @@ http://136.243.177.164/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/34-340438_hbo3-gradient-hbo-3-tv-logo-hd-png.png" group-title="Movies",HBO 3
 http://136.243.177.164/HBO3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India.png" group-title="Movies",HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
 http://136.243.177.164/CINEMAX/playlist.m3u8
 
