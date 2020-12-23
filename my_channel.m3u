@@ -135,6 +135,12 @@ http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movies",HBO [Link 2]
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
+http://136.243.177.164/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/34-340438_hbo3-gradient-hbo-3-tv-logo-hd-png.png" group-title="Movies",HBO 3
+http://136.243.177.164/HBO3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India.png" group-title="Movies",HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
