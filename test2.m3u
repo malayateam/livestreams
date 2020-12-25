@@ -24,21 +24,15 @@ http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4866.m3u8
 #EXTINF:-1,Channel 4 UK
 http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
 
-#EXTINF:-1,Discovery History
-http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
-
 #EXTINF:-1,Nat Geo
 http://178.132.3.162:88/nat_geo/index.m3u8?token=test
 
 #EXTINF:-1,ITV2
 http://178.132.3.162:88/itv2/index.m3u8?token=test
 
-#EXTINF:-1,Cartoon Network
-http://178.132.3.162:88/cartoon_network//index.m3u8?token=test
+#EXTINF:-1,ITV1
+http://178.132.3.162:88/itv1/index.m3u8?token=test
 
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_300.png" group-title="MY/SG",Astro Citra 
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-
-#EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY/SG",Astro Awani 
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1,Discovery History
+http://178.132.3.162:88/Discovery_History/index.m3u8?token=test
 
