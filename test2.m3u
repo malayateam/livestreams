@@ -30,9 +30,3 @@ http://178.132.3.162:88/nat_geo/index.m3u8?token=test
 #EXTINF:-1,ITV2
 http://178.132.3.162:88/itv2/index.m3u8?token=test
 
-#EXTINF:-1,ITV1
-http://178.132.3.162:88/itv1/index.m3u8?token=test
-
-#EXTINF:-1,Discovery History
-http://178.132.3.162:88/Discovery_History/index.m3u8?token=test
-
