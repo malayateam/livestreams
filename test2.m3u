@@ -3,8 +3,42 @@
 #EXTINF:-1,HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
 
-#EXTINF:-1,History
-https://edge.roku-live.top.comcast.net/out/u/history-west.m3u8
+#EXTINF:-1,Discovery Channel
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4915.m3u8
 
-#EXTINF:-1,FSTV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4912.m3u8
+
+#EXTINF:-1,National Geographic HD
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4911.m3u8
+
+#EXTINF:-1,AXN Movies HD
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/907.m3u8
+
+#EXTINF:-1,Hollywood Movies
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4864.m3u8
+
+#EXTINF:-1,AMC
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/4866.m3u8
+
+#EXTINF:-1,Channel 4 UK
+http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
+
+#EXTINF:-1,Discovery Turbo 1
+http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/28996.m3u8
+
+#EXTINF:-1,Discovery Turbo 2
+https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_discovery_turboPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/d2a914c6da.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS",ESPN 2 
+http://stream-e30453a4b.nmbs.top/m3u/Sports/cbf3099988.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment",Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="Entertainment",Outdoor Channel Asia 
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
+
