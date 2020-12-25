@@ -2,19 +2,6 @@
 
 #EXTINF:-1,HBO (West)
 https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:-1,Cinemax (East)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-#EXTINF:-1,Cinemax (West)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-#EXTINF:-1,Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1,Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1,STARZ (West)
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1,STARZ (East)
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-#EXTINF:-1,Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-#EXTINF:-1,Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+
+#EXTINF:-1,History
+https://edge.roku-live.top.comcast.net/out/u/history.m3u8
