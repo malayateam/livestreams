@@ -1,16 +1,26 @@
 <item>
-<title>Sport Canli</title>
-<link>$doregex[getUrl]</link>
+<title>http://sports24.club/tv/</title>
+<thumbnail></thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR gold][makelist.param1][/COLOR]</title>
+<link>$doregex[getUrl]|user-agent=iPad</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[btn-outline-primary.+?title\s*="(.*?)".*?href\s*="(.*?)"]]></expres>
+<page>http://sports24.club/tv/</page>
+</regex>
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
-import re,requests,jsunpack
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  link=re.findall('iframe.+?src=[\'"](h[^\'"]+)',page_data)[0]
-  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','host':'streamcdn.to','referer':'https://7.fixspor45.xyz/izle/607+.html','accept':'*/*'},cookies=Cookie_Jar).content
-  stream=jsunpack.unpack(re.findall('(eval.*(?:m3u8|mp4).*)',source)[0])
-  return re.findall('player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',stream)[0]+'|user-agent=ipad&referer='+link
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ source = requests.get('http://sports24.club/tv/[makelist.param2]',headers={'user-agent':'Mozilla/5.0'}).content
+ url= re.findall("xurl\s*=\s*atob\('(.*?)'",source)[0].decode('base64')
+ return url
 ]]></expres>
-<page>https://7.fixspor45.xyz/izle/607%2B.html</page>
+<page></page>
 </regex>
 </item>
