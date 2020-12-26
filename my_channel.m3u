@@ -81,61 +81,58 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsG1poF.jpg" group-title="Entertainment",ITV2
 http://51.52.156.22:8888/http/005
 
-#EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="Infotainment",ITV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZwqZJl.jpg" group-title="Entertainment",ITV3
 http://51.52.156.22:8888/http/006
 
-#EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="Infotainment",ITV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8nwJoQ.jpg" group-title="Entertainment",ITV4
 http://51.52.156.22:8888/http/007
 
-#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="Infotainment",CITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSJvl67.jpg" group-title="Entertainment",CITV
 http://51.52.156.22:8888/http/001
 
-#EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Entertainment",ABC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTfIAn1.jpg" group-title="Entertainment",ABC
 https://c.mjh.nz/101002510251/
 
-#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eOR1DT.jpg" group-title="Entertainment",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/BET.us.png" group-title="Entertainment",BET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UHD4yF.jpg" group-title="Entertainment",BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="Entertainment",CMT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ju8joy5.jpg" group-title="Entertainment",CMT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://www.zimplaza.co.zw/wp-content/uploads/britcom1546852580.jpg" group-title="Entertainment",BritCom 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rthFQQJ.jpg" group-title="Entertainment",BritCom 
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://telvue.com/wp-content/uploads/2013/04/amgtv.jpeg" group-title="Entertainment",AMGTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxsoPOP.jpg" group-title="Entertainment",AMGTV 
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://pyxis.nymag.com/v1/imgs/402/9b3/7b698e396e2d53b34c83f4e84125a2c9d0-02-afv-logo.rsquare.w330.png" group-title="Entertainment",America's Funniest Home Videos 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DhmFUCU.jpg" group-title="Entertainment",America's Funniest Home Videos 
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Dtml81YvL.png" group-title="Entertainment",BYUtv 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m9bxKLe.jpg" group-title="Entertainment",BYUtv 
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="Movies",Fox HD [Link 1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HoI7v0O.jpg" group-title="Movies",Fox HD [Link 1]
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/FOXHD_Logo.png" group-title="Movies",Fox HD [Link 2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HoI7v0O.jpg" group-title="Movies",Fox HD [Link 2]
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="Movies",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4l9T7Rj.jpg" group-title="Movies",Fox Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3PkgicHOOB8/TvQSWa96HwI/AAAAAAAAAyM/vubm9WcYEmU/s1600/FOX+Movies+Premium+Logo_Mono+Black.jpg" group-title="Movies",Fox Premium Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQOuLJ0.jpg" group-title="Movies",Fox Premium Movies
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="Movies",ID HD 
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" tvg-country="UK" tvg-url="" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOwISvh.jpg" group-title="Movies",HBO
 http://136.243.177.164/HBO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0cQ2GEn.jpg" group-title="Movies",HBO 2
 http://136.243.177.164/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/34-340438_hbo3-gradient-hbo-3-tv-logo-hd-png.png" group-title="Movies",HBO 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8XbZnb.jpg" group-title="Movies",HBO 3
 http://136.243.177.164/HBO3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
