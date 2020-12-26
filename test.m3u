@@ -62,6 +62,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8?HBO
+#EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8?HBO
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg",HBO Signature
