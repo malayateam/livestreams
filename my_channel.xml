@@ -1,4 +1,25 @@
 <item>
-<title>D-TV</title>
-<link>http://stream-e30453a4b.nmbs.top/m3u/Uk/cee5b0eee1.m3u8|&amp;User-Agent=VLC</link>
+<title>Diriliş ''Ertuğrul'' Season 2</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][/COLOR]</title>
+  <urlsolve>https://ok.ru/videoembed/[makelist.param2]</urlsolve>
+  <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  msource=re.findall('(?s)(gwtHash.*?)class=.navigation',page_data)[0].replace('amp;','')
+  hash,plink,edata=re.findall('(?s)gwtHash:"([^"]+).+?data-url="/(video/c[^"]+).+?data-last-element="([^"]+)',msource)[0]
+  list=re.findall('video-card_img-w".+?src="([^"]+).+?data-movie-id="([^"]+).+?title="([^-]+)',msource)
+  for pn in range(2,4):
+    data={'fetch':'false','st.page':str(pn),'st.lastelem':str(edata),'gwt.requested':str(hash)}
+    source=requests.post('https://ok.ru/'+plink,headers={'user-agent':'Mozilla/5.0','host':'ok.ru','origin':'https://ok.ru','accept':'*/*'},data=data).content.replace('amp;','')
+    list +=re.findall('video-card_img-w".+?src="([^"]+).+?data-movie-id="([^"]+).+?title="([^-]+)',source)
+  return list
+]]></expres>
+<page>https://ok.ru/video/c2381276</page>
+</regex>
 </item>
