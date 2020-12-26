@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="Infotainment",RTM 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/vPCex9F.jpg" tvg-country="MY" tvg-url="" group-title="Infotainment",RTM 1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" tvg-country="MY" tvg-url="" group-title="Infotainment",RTM 2
@@ -39,7 +39,7 @@ https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="News",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://i.imgur.com/WMQF4N2.png" group-title="Entertainment",Astro Ria 
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://i.imgur.com/0wGF2FR.jpg" group-title="Entertainment",Astro Ria 
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8 
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Entertainment",Astro Warna 
@@ -156,7 +156,7 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movies", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bltmDeG.jpg" group-title="Movies",Warner TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7Uc6Mb.jpg" group-title="Movies",Warner TV
 http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="News",WHDH-TV 
