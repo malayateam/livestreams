@@ -1,14 +1,14 @@
 <item>
-<title>History Channel - Inputstream</title>
-<inputstream>$doregex[getUrl]|referer=http://sports24.club/</inputstream>
+<title>Fox Sport Asia - Link</title>
+<link>$doregex[getUrl]</link>
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  return re.findall('atob.[\'"]([^\'"]+)',page_data)[0].decode('base64') #+'|user-agent=ipad&referer=http://sports24.club/tv/v?id=history'
+  return re.findall('atob.[\'"]([^\'"]+)',page_data)[0].decode('base64')+'|user-agent=ipad&referer=http://sports24.club/tv/v?id=fs2asia'
 ]]></expres>
-<page>http://sports24.club/tv/v?id=history</page>
+<page>http://sports24.club/tv/v?id=fs2asia</page>
 <referer>http://sports24.club/</referer>
 </regex>
 </item>
