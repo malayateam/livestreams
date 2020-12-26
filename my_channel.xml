@@ -1,17 +1,14 @@
-<item><item>
-<title>CN --https://www.canlitv.today/cartoon-network--</title>
-<link>$doregex[getUrl]|User-Agent=iPad</link>
+<item>
+<title>History Channel - Inputstream</title>
+<inputstream>$doregex[getUrl]|referer=http://sports24.club/</inputstream>
 <regex>
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  import re, requests, unwise
-  source = requests.get('https://www.canlitv.today/yayinim.php?kanal=cartoon-network', headers={'user-agent':'Mozilla/5.0','referer':'https://www.canlitv.today/'}).text
-  while 'w,i,s,e' in source:
-    source=unwise.unwise_process(source)
-  link = re.findall('attr\("src", "(.*?)"',source, re.DOTALL)[0]
-  return link
+  return re.findall('atob.[\'"]([^\'"]+)',page_data)[0].decode('base64') #+'|user-agent=ipad&referer=http://sports24.club/tv/v?id=history'
 ]]></expres>
-<page></page>
+<page>http://sports24.club/tv/v?id=history</page>
+<referer>http://sports24.club/</referer>
 </regex>
 </item>
