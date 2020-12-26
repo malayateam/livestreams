@@ -57,30 +57,28 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQYzYnK.jpg" group-title="Entertainment",Astro Naura
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:-1 tvg-ID="GoShop" tvg-logo="https://ma-prod62-01.adobecqms.net/content/dam/mas/enrich/promotion/sub-page/astro-go-shop/AstroGoShopLogo-040118.png" group-title="Entertainment",Astro GoShop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HVdWKE.jpg" group-title="Entertainment",Astro Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
-
-
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Infotainment",Astro AEC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxnA6EZ.jpg" group-title="Entertainment",Astro AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
-#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Infotainment",Astro Vaanavil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oV680uD.jpg" group-title="Entertainment",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="Infotainment",BBC Two
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VtrH7Xo.jpg" group-title="Entertainment",BBC Two
 http://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="Entertainment",KBS World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTzKHbR.jpg" group-title="Entertainment",KBS World
 http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKugjDY.jpg" group-title="Entertainment",Arirang
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Infotainment",ITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxVhd1E.jpg" group-title="Entertainment",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-#EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="Infotainment",ITV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsG1poF.jpg" group-title="Entertainment",ITV2
 http://51.52.156.22:8888/http/005
 
 #EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="Infotainment",ITV3
