@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="TEST" group-title="Sports",Fox Sport 2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 
+#EXTINF:-1 tvg-logo="TEST" group-title="",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #EXTINF:-1 tvg-logo="TEST" group-title="Sports",Bein Sports 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
