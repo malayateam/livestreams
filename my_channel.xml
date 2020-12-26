@@ -1,0 +1,30 @@
+<item>
+<title>History Channel - Inputstream</title>
+<inputstream>$doregex[getUrl]|referer=http://sports24.club/</inputstream>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('atob.[\'"]([^\'"]+)',page_data)[0].decode('base64') #+'|user-agent=ipad&referer=http://sports24.club/tv/v?id=history'
+]]></expres>
+<page>http://sports24.club/tv/v?id=history</page>
+<referer>http://sports24.club/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>History Channel - Link</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('atob.[\'"]([^\'"]+)',page_data)[0].decode('base64')+'|user-agent=ipad&referer=http://sports24.club/tv/v?id=history'
+]]></expres>
+<page>http://sports24.club/tv/v?id=history</page>
+<referer>http://sports24.club/</referer>
+</regex>
+</item>
