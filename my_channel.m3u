@@ -135,22 +135,22 @@ http://136.243.177.164/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8XbZnb.jpg" group-title="Movies",HBO 3
 http://136.243.177.164/HBO3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwOvcM6.jpg" group-title="Movies",Cinemax
 http://136.243.177.164/CINEMAX/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.zee.com/wp-content/uploads/2017/10/flix-280-200.png" tvg-country="UK" tvg-url="" group-title="Movies",&Flix HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czu7huF.jpg" group-title="Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-r9UZtBqwBQE/WbkdmrOolUI/AAAAAAAADdc/Kx1fXx6aZK0nRW6_x5e_JxPrEh5UJXsxgCLcBGAs/s1600/4kIkHqgj_400x400.jpg" group-title="Movies",&Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkZy06o.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="Movies",Paramount Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsCOnBK.jpg" group-title="Movies",Paramount Channel
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18094323/blue-ant-logo.png" group-title="Movies",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pq65dv.jpg" group-title="Movies",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7B9_FVSuWIM/WxIyR7KUb9I/AAAAAAAAlgc/NwFsDTK25qQ9iJ73bcpn5PQ5G0mtiK8yACLcBGAs/s1600/blue-ant-extreme-channel-tv-logo.png" group-title="Movies", Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpEBBHL.jpg" group-title="Movies",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R7Uc6Mb.jpg" group-title="Movies",Warner TV
