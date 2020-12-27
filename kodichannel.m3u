@@ -8,15 +8,46 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
 https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
-                         
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3 [Link 2]
+https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7 [Link 2]
+https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TenjgiJ.jpg" group-title="Entertainment",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TenjgiJ.jpg" group-title="Entertainment",8TV [Link 2]
+https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIOJ99H.jpg" group-title="Entertainment",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro BOO
+http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro CITRA
+http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro CERIA
+http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro WARNA
+http://vp2p2s.my6868.cc/20424/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro RIA
+http://vp2p2s.my6868.cc/20421/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro OASIS
+http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro PRIMA
+http://vp2p2s.my6868.cc/20477/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
 
 -----Example----
 
