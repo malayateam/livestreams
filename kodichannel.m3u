@@ -34,25 +34,25 @@ http://vp2p2s.my6868.cc/20425/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="http://www.dyosiptv.online/LogoTV/logo_disjr.png" group-title="KIDS",Disney Junior
-http://iptvtree.net:8080/live/F11773/0570c4f1/190948.ts
+http://iptvtree.net:8080/F11773/0570c4f1/190948
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://www.dyosiptv.online/LogoTV/logo_disney.png" group-title="KIDS",Disney Channel
-http://iptvtree.net:8080/live/F11773/0570c4f1/191046.ts
+http://iptvtree.net:8080/F11773/0570c4f1/191046
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdbW2GZe5R_s5UK4NznjDmz0qWO6jfthd0hGQ9NBqMZKRcwu_HQ&s" group-title="KIDS", BABY TV
-http://iptvtree.net:8080/live/12682/12bb8cc4/190812.ts
+http://iptvtree.net:8080/12682/12bb8cc4/190812
 
 #EXTINF:-1 ,Astro SuperSport 1
-http://iptvtree.net:8080/live/13354/27c12697/157559.ts
+http://iptvtree.net:8080/13354/27c12697/157559
 
 #EXTINF:-1 ,Astro SuperSport 2
-http://iptvtree.net:8080/live/13354/27c12697/157556.ts
+http://iptvtree.net:8080/13354/27c12697/157556
 
 #EXTINF:-1 ,Astro SuperSport 3
-http://iptvtree.net:8080/live/13354/27c12697/157557.ts
+http://iptvtree.net:8080/13354/27c12697/157557
 
 #EXTINF:-1 ,Astro SuperSport 4
-http://iptvtree.net:8080/live/13354/27c12697/157558.ts
+http://iptvtree.net:8080/13354/27c12697/157558
 
 #EXTINF:-1 ,ASTRO ARENA HD
 http://iptvtree.net:8080/live/13354/27c12697/157485.ts
