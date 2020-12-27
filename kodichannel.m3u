@@ -8,6 +8,9 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
 http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3 [Dailymotion]
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8
                          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
