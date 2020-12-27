@@ -27,7 +27,20 @@ http://skylogic.site:8080/live/11892/4eae5165/247407.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00lgom4.jpg" group-title="Entertainment",Astro Prima [done]
 http://e8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/71020.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcTI1Xb.jpg" group-title="Entertainment",Astro Citra [done]
+http://vp2p2s.my6868.cc/20425/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="http://www.dyosiptv.online/LogoTV/logo_disjr.png" group-title="KIDS",Disney Junior
+http://iptvtree.net:8080/live/F11773/0570c4f1/190948.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://www.dyosiptv.online/LogoTV/logo_disney.png" group-title="KIDS",Disney Channel
+http://iptvtree.net:8080/live/F11773/0570c4f1/191046.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdbW2GZe5R_s5UK4NznjDmz0qWO6jfthd0hGQ9NBqMZKRcwu_HQ&s" group-title="KIDS", BABY TV
+http://iptvtree.net:8080/live/12682/12bb8cc4/190812.ts
 
 #EXTINF:-1 ,Astro SuperSport 1
 http://iptvtree.net:8080/live/13354/27c12697/157559.ts
