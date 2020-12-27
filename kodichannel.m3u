@@ -24,34 +24,25 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE [done]
 http://skylogic.site:8080/live/11892/4eae5165/247407.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE 1
-http://iptvtree.net:8080/STBEMU/ONMAC/157571?play_token=47uBgazUNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00lgom4.jpg" group-title="Entertainment",Astro Prima [done]
+http://e8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/71020.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE 2
-http://iptvtree.net:8080/STBEMU/ONMAC/195647?play_token=C02rrapVbx
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro ADITHYA
-http://iptvtree.net:8080/STBEMU/ONMAC/157469?play_token=CmMVFQerhc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro AEC
-http://iptvtree.net:8080/STBEMU/ONMAC/157508?play_token=7qwlLnpX5u
 
 #EXTINF:-1 ,Astro SuperSport 1
-http://iptvtree.net:8080/13354/27c12697/157559
+http://iptvtree.net:8080/live/13354/27c12697/157559.ts
 
 #EXTINF:-1 ,Astro SuperSport 2
-http://iptvtree.net:8080/13354/27c12697/157556
+http://iptvtree.net:8080/live/13354/27c12697/157556.ts
 
 #EXTINF:-1 ,Astro SuperSport 3
-http://iptvtree.net:8080/13354/27c12697/157557
+http://iptvtree.net:8080/live/13354/27c12697/157557.ts
 
 #EXTINF:-1 ,Astro SuperSport 4
-http://iptvtree.net:8080/13354/27c12697/157558
+http://iptvtree.net:8080/live/13354/27c12697/157558.ts
 
 #EXTINF:-1 ,ASTRO ARENA HD
-http://iptvtree.net:8080/13354/27c12697/157485
-
-
+http://iptvtree.net:8080/live/13354/27c12697/157485.ts
 
 -----Example----
 
