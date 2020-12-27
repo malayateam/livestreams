@@ -18,15 +18,16 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIOJ99H.jpg" group-title="Entertainment",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title=",test
 http://mu01.okcomputer.club:8880/HLNM1859/2211496314/71147
 
-astro TUTOR TV UPSR
+#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV UPSR
 http://newhd.online:8080/JP128/dYiA8N0mOe/248
-astro TUTOR TV PT3
+#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV PT3
 http://newhd.online:8080/JP128/dYiA8N0mOe/249
-astro TUTOR TV SPM
+#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV SPM
 http://newhd.online:8080/JP128/dYiA8N0mOe/250
-astro TVIQ
+#EXTINF:-1 tvg-logo="" group-title=",astro TVIQ
 http://newhd.online:8080/JP128/dYiA8N0mOe/252
 
 -----Example----
