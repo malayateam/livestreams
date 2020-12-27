@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="TEST" group-title="",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FAM.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
+http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
 
 #EXTINF:-1 tvg-logo="TEST" group-title="Sports",Star Sports
 rtmp://58.200.131.2:1935/livetv/starsports
