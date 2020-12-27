@@ -15,6 +15,17 @@ https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 Asia
 https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="Cricket",Star Sports 1
+http://185.246.210.54:2200/EX/starsports1hd-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Cricket",Star Sports 2
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSports3.in.png" group-title="Cricket",Star Sports 3
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/u9uPPgo.jpg" tvg-country="MY" tvg-url="" group-title="Infotainment",RTM 1 
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
