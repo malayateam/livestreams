@@ -18,17 +18,40 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIOJ99H.jpg" group-title="Entertainment",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=",test
-http://mu01.okcomputer.club:8880/HLNM1859/2211496314/71147
 
-#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV UPSR
-http://newhd.online:8080/JP128/dYiA8N0mOe/248
-#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV PT3
-http://newhd.online:8080/JP128/dYiA8N0mOe/249
-#EXTINF:-1 tvg-logo="" group-title=",astro TUTOR TV SPM
-http://newhd.online:8080/JP128/dYiA8N0mOe/250
-#EXTINF:-1 tvg-logo="" group-title=",astro TVIQ
-http://newhd.online:8080/JP128/dYiA8N0mOe/252
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE [done]
+http://skylogic.site:8080/live/11892/4eae5165/247407.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE 1
+http://iptvtree.net:8080/STBEMU/ONMAC/157571?play_token=47uBgazUNA
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro BOX OFFICE 2
+http://iptvtree.net:8080/STBEMU/ONMAC/195647?play_token=C02rrapVbx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro ADITHYA
+http://iptvtree.net:8080/STBEMU/ONMAC/157469?play_token=CmMVFQerhc
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ASTRO GO", Astro AEC
+http://iptvtree.net:8080/STBEMU/ONMAC/157508?play_token=7qwlLnpX5u
+
+#EXTINF:-1 ,Astro SuperSport 1
+http://iptvtree.net:8080/13354/27c12697/157559
+
+#EXTINF:-1 ,Astro SuperSport 2
+http://iptvtree.net:8080/13354/27c12697/157556
+
+#EXTINF:-1 ,Astro SuperSport 3
+http://iptvtree.net:8080/13354/27c12697/157557
+
+#EXTINF:-1 ,Astro SuperSport 4
+http://iptvtree.net:8080/13354/27c12697/157558
+
+#EXTINF:-1 ,ASTRO ARENA HD
+http://iptvtree.net:8080/13354/27c12697/157485
+
+
 
 -----Example----
 
