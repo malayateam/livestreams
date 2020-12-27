@@ -9,47 +9,259 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
 https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3 [Link 2]
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7 [Link 2]
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TenjgiJ.jpg" group-title="Entertainment",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TenjgiJ.jpg" group-title="Entertainment",8TV [Link 2]
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIOJ99H.jpg" group-title="Entertainment",TV9 
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro BOO
-http://vp2p2s.my6868.cc/20420/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro CITRA
-http://vp2p2s.my6868.cc/20425/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro CERIA
-http://vp2p2s.my6868.cc/20494/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro WARNA
-http://vp2p2s.my6868.cc/20424/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro RIA
-http://vp2p2s.my6868.cc/20421/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro RIA HD
-http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/250
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro OASIS
-http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro PRIMA
-http://vp2p2s.my6868.cc/20477/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX Family Movies" tvg-logo="" group-title="Malaysia",MY: FOX Family Movies
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110273.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX HD" tvg-logo="" group-title="Malaysia",MY: FOX HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX Action Movies" tvg-logo="" group-title="Malaysia",MY: FOX Action Movies
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110271.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Citra HD" tvg-logo="" group-title="Malaysia",MY: Astro Citra HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110270.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FRANCE24 HD" tvg-logo="" group-title="Malaysia",MY: FRANCE24 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110269.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DW HD" tvg-logo="" group-title="Malaysia",MY: DW HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110268.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: KPLUS HD" tvg-logo="" group-title="Malaysia",MY: KPLUS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110267.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIPLUS HD" tvg-logo="" group-title="Malaysia",MY: ANIPLUS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110266.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CRICKET" tvg-logo="" group-title="Malaysia",MY: ASTRO CRICKET
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110265.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RUGBY PASS TV" tvg-logo="" group-title="Malaysia",MY: ASTRO RUGBY PASS TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110264.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: GOLF CHANNEL HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110263.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WWE NETWORK" tvg-logo="" group-title="Malaysia",MY: WWE NETWORK
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110262.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: EUROSPORT HD" tvg-logo="" group-title="Malaysia",MY: EUROSPORT HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110261.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: bEIN MAX" tvg-logo="" group-title="Malaysia",MY: bEIN MAX
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110260.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: beIN SPORTS" tvg-logo="" group-title="Malaysia",MY: beIN SPORTS
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110259.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 3 HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS 3 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110258.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS 2 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110257.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110256.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP4 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110255.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP3 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110254.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP2 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110253.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110252.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ARENA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110251.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: eGG Network" tvg-logo="" group-title="Malaysia",MY: eGG Network
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110250.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAX" tvg-logo="" group-title="Malaysia",MY: ANIMAX
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110249.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: MTV" tvg-logo="" group-title="Malaysia",MY: MTV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110248.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: COMEDY CENTRAL" tvg-logo="" group-title="Malaysia",MY: COMEDY CENTRAL
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110247.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DMAX HD" tvg-logo="" group-title="Malaysia",MY: DMAX HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110246.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HGTV HD" tvg-logo="" group-title="Malaysia",MY: HGTV HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110245.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: C&I HD" tvg-logo="" group-title="Malaysia",MY: C&I HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110244.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WARNER TV" tvg-logo="" group-title="Malaysia",MY: WARNER TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110243.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NATGEO PEOPLE" tvg-logo="" group-title="Malaysia",MY: NATGEO PEOPLE
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110242.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AFN HD" tvg-logo="" group-title="Malaysia",MY: AFN HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110241.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: FOOD NTWK HD" tvg-logo="" group-title="Malaysia",MY: FOOD NTWK HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110240.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TLC HD" tvg-logo="" group-title="Malaysia",MY: TLC HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110239.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS HD" tvg-logo="" group-title="Malaysia",MY: HITS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110238.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: KIX HD" tvg-logo="" group-title="Malaysia",MY: KIX HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110237.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO HELLO" tvg-logo="" group-title="Malaysia",MY: ASTRO HELLO
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110236.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AXN HD" tvg-logo="" group-title="Malaysia",MY: AXN HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110235.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NICK JR" tvg-logo="" group-title="Malaysia",MY: NICK JR
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110234.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NICKELODEON HD" tvg-logo="" group-title="Malaysia",MY: NICKELODEON HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110233.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CARTOON NTWK HD" tvg-logo="" group-title="Malaysia",MY: CARTOON NTWK HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110232.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: DISNEY CHANNEL HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110231.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY JUNIOR" tvg-logo="" group-title="Malaysia",MY: DISNEY JUNIOR
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110230.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY XD HD" tvg-logo="" group-title="Malaysia",MY: DISNEY XD HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110229.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CERIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO CERIA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110228.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVIQ" tvg-logo="" group-title="Malaysia",MY: TVIQ
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110227.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV SPM" tvg-logo="" group-title="Malaysia",MY: TUTOR TV SPM
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110226.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV PT3" tvg-logo="" group-title="Malaysia",MY: TUTOR TV PT3
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110225.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV UPSR" tvg-logo="" group-title="Malaysia",MY: TUTOR TV UPSR
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/
+110224.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia",MY: ANIMAL PLANET HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110223.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HISTORY HD" tvg-logo="" group-title="Malaysia",MY: HISTORY HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110222.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISC SCI HD" tvg-logo="" group-title="Malaysia",MY: DISC SCI HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110221.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY ASIA" tvg-logo="" group-title="Malaysia",MY: DISCOVERY ASIA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110220.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY HD" tvg-logo="" group-title="Malaysia",MY: DISCOVERY HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110219.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO HD" tvg-logo="" group-title="Malaysia",MY: NAT GEO HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110218.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: NGW HD" tvg-logo="" group-title="Malaysia",MY: NGW HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110217.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",MY: ABC AUSTRALIA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110216.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BLOOMBERG TV" tvg-logo="" group-title="Malaysia",MY: BLOOMBERG TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110215.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CNBC" tvg-logo="" group-title="Malaysia",MY: CNBC
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110214.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CNA HD" tvg-logo="" group-title="Malaysia",MY: CNA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110213.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SKY NEWS HD" tvg-logo="" group-title="Malaysia",MY: SKY NEWS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110212.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AL JAZEERA HD" tvg-logo="" group-title="Malaysia",MY: AL JAZEERA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110211.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC News HD" tvg-logo="" group-title="Malaysia",MY: BBC News HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110210.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CNN HD" tvg-logo="" group-title="Malaysia",MY: CNN HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110209.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CGTN" tvg-logo="" group-title="Malaysia",MY: CGTN
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110208.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BNC" tvg-logo="" group-title="Malaysia",MY: BNC
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110207.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AWANI" tvg-logo="" group-title="Malaysia",MY: ASTRO AWANI
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110206.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: tvN Movies" tvg-logo="" group-title="Malaysia",MY: tvN Movies
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110205.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CINEMAX HD" tvg-logo="" group-title="Malaysia",MY: CINEMAX HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110204.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HBO HD" tvg-logo="" group-title="Malaysia",MY: HBO HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110203.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS MOVIES HD" tvg-logo="" group-title="Malaysia",MY: HITS MOVIES HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110202.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: tvN HD" tvg-logo="" group-title="Malaysia",MY: tvN HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110201.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: Oh!K HD" tvg-logo="" group-title="Malaysia",MY: Oh!K HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110200.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ONE HD" tvg-logo="" group-title="Malaysia",MY: ONE HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110199.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: KBS World HD" tvg-logo="" group-tit
+le="Malaysia",MY: KBS World HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110198.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 355 HD" tvg-logo="" group-title="Malaysia",MY: AOD 355 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110197.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 354 HD" tvg-logo="" group-title="Malaysia",MY: AOD 354 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110196.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 353 HD" tvg-logo="" group-title="Malaysia",MY: AOD 353 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110195.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 352 HD" tvg-logo="" group-title="Malaysia",MY: AOD 352 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110194.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CCTV4 HD" tvg-logo="" group-title="Malaysia",MY: CCTV4 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110193.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: HUA HEE DAI HD" tvg-logo="" group-title="Malaysia",MY: HUA HEE DAI HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110192.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CCM" tvg-logo="" group-title="Malaysia",MY: CCM
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110191.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVBS ASIA HD" tvg-logo="" group-title="Malaysia",MY: TVBS ASIA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110190.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB XING HE HD" tvg-logo="" group-title="Malaysia",MY: TVB XING HE HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110189.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB E-NEWS" tvg-logo="" group-title="Malaysia",MY: TVB E-NEWS
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110188.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CTI ASIA" tvg-logo="" group-title="Malaysia",MY: CTI ASIA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110187.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 351 HD" tvg-logo="" group-title="Malaysia",MY: AOD 351 HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110186.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: WLT | JADE" tvg-logo="" group-title="Malaysia",MY: WLT | JADE
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110185.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CELESTIAL HD" tvg-logo="" group-title="Malaysia",MY: CELESTIAL HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110184.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: QUAN JIA HD" tvg-logo="" group-title="Malaysia",MY: QUAN JIA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110183.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SHUANG XING HD" tvg-logo="" group-title="Malaysia",MY: SHUANG XING HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110182.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: AEC HD" tvg-logo="" group-title="Malaysia",MY: AEC HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB CLASSIC" tvg-logo="" group-title="Malaysia",MY: TVB CLASSIC
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: XIAO TAI YANG HD" tvg-logo="" group-title="Malaysia",MY: XIAO TAI YANG HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP 2" tvg-logo="" group-title="Malaysia",MY: GO SHOP 2
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110178.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: iQIYI HD" tvg-logo="" group-title="Malaysia",MY: iQIYI HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110177.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: BOLLYONE HD" tvg-logo="" group-title="Malaysia",MY: BOLLYONE HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110176.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SUN TV HD" tvg-logo="" group-title="Malaysia",MY: SUN TV HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS TAMIL" tvg-logo="" group-title="Malaysia",MY: COLORS TAMIL
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110174.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: STAR VIJAY HD" tvg-logo="" group-title="Malaysia",MY: STAR VI
+JAY HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110173.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: VINMEEN HD" tvg-logo="" group-title="Malaysia",MY: VINMEEN HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110172.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: KALAIGNAR" tvg-logo="" group-title="Malaysia",MY: KALAIGNAR
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110171.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: RAJ TV" tvg-logo="" group-title="Malaysia",MY: RAJ TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110170.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: JAYA TV" tvg-logo="" group-title="Malaysia",MY: JAYA TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110169.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ADITHYA" tvg-logo="" group-title="Malaysia",MY: ADITHYA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110168.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: CHUTTI TV" tvg-logo="" group-title="Malaysia",MY: CHUTTI TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110167.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: SUN MUSIC" tvg-logo="" group-title="Malaysia",MY: SUN MUSIC
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110166.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: MAKKAL TV" tvg-logo="" group-title="Malaysia",MY: MAKKAL TV
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: VAANAVIL" tvg-logo="" group-title="Malaysia",MY: VAANAVIL
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110164.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP GAAYA" tvg-logo="" group-title="Malaysia",MY: GO SHOP GAAYA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP RUUMA" tvg-logo="" group-title="Malaysia",MY: GO SHOP RUUMA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS HD" tvg-logo="" group-title="Malaysia",MY: COLORS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: TV ALHIJRAH" tvg-logo="" group-title="Malaysia",MY: TV ALHIJRAH
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO NAURA" tvg-logo="" group-title="Malaysia",MY: ASTRO NAURA
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO WARNA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO WARNA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO OASIS HD" tvg-logo="" group-title="Malaysia",MY: ASTRO OASIS HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO PRIMA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO RIA HD
+http://digimobil.org:7899/live/gXzpcWZOEl/kytXiufFCw/110155.m3u8
 
 
 -----Example----
