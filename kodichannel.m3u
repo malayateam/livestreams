@@ -42,6 +42,9 @@ http://vp2p2s.my6868.cc/20424/index.m3u8?auth_key=1598916881-2090652880-0-338285
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",astro RIA
 http://vp2p2s.my6868.cc/20421/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",astro RIA HD
+http://api.iptveditor.com/98b1Z4gL-wpmZ/SCg7x6X/250
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",astro OASIS
 http://vp2p2s.my6868.cc/20471/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
 
