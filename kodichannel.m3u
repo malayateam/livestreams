@@ -9,6 +9,12 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
 https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
+https://stream-05.sg1.dailymotion.com/sec(55cb9bafdf156f64e57edda0e0dc5f475780320e)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0CqdAc.jpg" group-title="Entertainment",TV3
+https://stream-05.sg1.dailymotion.com/sec(eea605b96e01c796ff369935357eca920c5da4c5)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ31CyD.jpg" group-title="Entertainment",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 
